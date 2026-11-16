@@ -52,6 +52,7 @@ Nexora brings these aspects together into one platform, helping users build heal
 | Vite | Development and build tool |
 | JavaScript | Application programming language |
 | Tailwind CSS | Styling framework |
+using AI from GEMINI, CLAUDEA and figroot plug in from figma to slice the UI/UX design
 | Git & GitHub | Version control and collaboration |
 
 ## Getting Started
@@ -119,6 +120,12 @@ NEXORA-by-Belajar-aja-COMMIT/
 - **Team:** Belajar Aja
 - **Program:** COMMIT
 - **Project Type:** Lifestyle Optimization & Wellness Platform
+
+## Team Members
+
+1. **Ken Alfathir Panggodo**
+2. **Ibrahim Adyatma Nursiain**
+3. **Athallah Shafi Ramadhan**
 
 ---
 
