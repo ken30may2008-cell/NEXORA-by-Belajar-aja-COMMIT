@@ -103,8 +103,8 @@ export default function Navbar({ currentPage = "overview", onNavigate }) {
           >
             {/* Kotak Ikon Daun Frutiger Aero */}
             <img
-              src="/.mascot-icon.svg"
-              alt="Nexora Mascot Icon"
+              src="/mascot-icon.svg"
+              alt="Mascot Icon"
               className="relative h-[38px] w-[38px] rounded-[10px] "
             />
             <span className="text-[28px] font-bold leading-none tracking-tight text-[#144B5E]">
@@ -174,4 +174,4 @@ export default function Navbar({ currentPage = "overview", onNavigate }) {
       </div>
     </header>
   );
-}
+}  
